@@ -2,10 +2,10 @@ package course.bootcamp;
 /*
  * @author luis
  */
-//import java.util.Scanner;
+import java.util.Scanner;
 public class Bootcamp2 {
     public static void main(String[] args) {
-        /*Scanner sc = new Scanner (System.in);
+        Scanner sc = new Scanner (System.in);
         //if, else if, else
         double numeroIf;
         System.out.print("\nDigite un numero a evaluar\n==>");
@@ -36,7 +36,7 @@ public class Bootcamp2 {
         //For
         for (int numeroFor = 0; numeroFor <=3; numeroFor++) {
             System.out.println(numeroFor);
-        }*/
+        }
         
         //Switch
         String estacion = "primavera";
