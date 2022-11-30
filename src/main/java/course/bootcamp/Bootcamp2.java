@@ -42,7 +42,6 @@ public class Bootcamp2 {
         String estacion = "primavera";
         switch (estacion) {
             case "primavera" -> System.out.println("Estacion de Primavera.");
-                
             case "verano" -> System.out.println("Estacion de Verano.");
             case "otoño" -> System.out.println("Estacion de Otoño.");
             case "invierno" -> System.out.println("Estacion de Invierno.");
